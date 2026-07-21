@@ -1,4 +1,4 @@
-# Bridge Segmentation Release
+# HyBridgeSeg: A Hybrid Semantic Segmentation Framework for Reinforced Concrete Bridge Point Clouds
 
 This repository contains a cleaned release version of the bridge point-cloud segmentation pipeline.
 
